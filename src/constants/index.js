@@ -249,7 +249,7 @@ export const myProjects = [
         desc: 'A powerful GitHub analytics platform that enables tracking over 5,000+ user IDs and usernames. It offers detailed insights into user activity, engagement patterns, and customizable notifications.',
         subdesc:
             'Built with React, Tailwind CSS, and Node.js, GitHub Tracker features real-time tracking, visual dashboards, and a user-friendly interface to boost productivity and user retention.',
-        href: 'https://github.com/ASH-ION-01/DiscordTracker',
+        href: 'https://discord-tracker-pi.vercel.app/',
         texture: '/textures/project/project1.mp4',
         logo: '/assets/project-logo1.png',
         logoStyle: {
@@ -270,7 +270,7 @@ export const myProjects = [
         desc: 'An advanced e-commerce solution offering seamless online shopping experience. Users can browse, add to cart, and pay securely from over 2,500+ products.',
         subdesc:
             'Built using React.js, JavaScript, and Tailwind CSS, Shoptify comes with fully integrated cart and Razorpay payment support, ensuring smooth transactions and a modern UI.',
-        href: 'https://github.com/ASH-ION-01/Shoptify',
+        href: 'https://shopgem.netlify.app/',
         texture: '/textures/project/project2.mp4',
         logo: '/assets/project-logo2.png',
         logoStyle: {
@@ -291,7 +291,7 @@ export const myProjects = [
         desc: 'A comprehensive healthcare web application that suggests medications based on symptoms, allows users to book appointments with doctors, and buy medicines online.',
         subdesc:
             'Made entirely in React without backend support, CareU handles routing, symptom-checking, scheduling, and secure medicine delivery — offering a seamless health experience.',
-        href: 'https://github.com/ASH-ION-01/CareU',
+        href: 'https://careu.vercel.app/',
         texture: '/textures/project/project3.mp4',
         logo: '/assets/project-logo3.png',
         logoStyle: {
